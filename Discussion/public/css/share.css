@@ -1,0 +1,58 @@
+ol.breadcrumb{
+	padding: 8px 15px;
+    margin-bottom: 20px;
+    list-style: none;
+    background-color: #fff;
+    border-radius: 0px;
+}
+
+.views >h4{
+	padding: 10px 50px;
+	color: #fff;
+	background: #0040ff;
+	margin: 0px;
+}
+
+.views>.list>li{
+	padding: 10px 10px;
+	background: #e0e0d1;
+}
+
+.views{
+	margin-bottom: 40px;
+}
+
+.comments .list .list1>.col-md-10, .comments .list .list1>.col-md-2{
+	padding: 0px;
+}
+
+/*.comments {
+	padding: 0px;
+}*/
+
+.comments>h4{
+	padding: 10px 20px;
+	color: #fff;
+	background: #0040ff;
+	margin: 0px;
+}
+
+.comments .list .list1>.col-md-10>li, .comments .list .list1>.col-md-2>i{
+	padding: 10px 0px;
+}
+
+.comments .list{
+	float: left;
+	clear: both;
+	background-color: #e0e0d1;
+}
+
+
+.experience .row{
+	padding: 15px 0;
+}
+
+.comments .list .list1>.col-md-10>li{
+	padding: 10px 10px;
+	padding-left: 10px;
+}

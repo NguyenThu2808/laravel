@@ -1,0 +1,21 @@
+#form h1{
+	text-align: center;
+	font-family: "Segoe UI Light",SegoeUIWL, "Segoe UI", "sans-serif";
+}
+
+.container{
+	width: 750px;
+	border: 1px solid #eaeaea;
+	box-shadow: 0 1px 2px #fff inset, 0 1px 1px #dfdfdf;
+	background-color: #fff;
+	border-radius: 4px;
+}
+
+#form form tr td{
+	padding: 10px 10px;
+}
+
+.note {
+	padding-left: 135px;
+	margin-top: 10px;
+}
